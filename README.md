@@ -18,7 +18,11 @@ osu!.ps1
 
 
 
-https://user-images.githubusercontent.com/108415154/197349572-2c5bd943-26a2-4027-b32b-b48ad5e8e803.mp4
+
+
+https://github.com/externalip/powershell-stuff/assets/129664957/42b34d6f-613d-4029-8fa0-cfc1f0532f5e
+
+
 
 
 
